@@ -1,0 +1,66 @@
+/* .dropDownProfile {
+    position: absolute;
+	top: 4.5rem;
+	right: 1.5rem;
+	width: 250px;
+	padding: 15px;
+	border-radius: 5px;
+	background-color: white;
+	border: 1px solid gray;
+}
+.dropDownProfile::before {
+    content: '';
+    position: absolute;
+	bottom: -1.5rem;
+	left: 1.4rem;
+	width: 40px;
+	height: 60px;
+	transform: rotate(63deg);
+	background-color: white;
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+}  */
+/* #box { 
+    width: 300px; 
+    height: 300px; 
+    clip-path: polygon(50% 0, 100% 100%, 0 100%); 
+    background-color: blue; 
+    margin: 0 auto; 
+}  */
+
+.bubble {
+    /* position: relative;
+    background: red; */
+    /* font-family: Arial;
+    font-size: 20px;
+    line-height: 120px;
+    text-align: center; */
+    /* width: 250px;
+    height: 120px; */
+    /* padding: 0px; */
+    
+}
+/* .bubble:after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 0;
+    z-index: 1;
+    border-style: solid;
+    border-width: 40px 40px 0 0;
+    border-color: #ff0000 transparent transparent transparent;
+    bottom: -40px;
+    left: 24%;
+    margin-left: -20px;
+} */
+
+
+
+
+
+
+
+
+
+
+
